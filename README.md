@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zenchef is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zenchef.com/
+Zenchef provides an all‑in‑one restaurant management platform that handles reservations, table management, payments, guest communication, and analytics. Their SaaS solution helps restaurants reduce no‑shows, fill last‑minute tables, and improve revenue through integrated booking, AI‑driven tools, and a guest‑facing app. The platform serves individual venues and groups, offering customizable branding, multi‑location oversight, and a marketplace of integrations for POS, marketing, and loyalty systems.
+
+**Areas:** Restaurant · SaaS · Reservations · Payments · Analytics · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zenchef.com/)
+- [Documentation](https://help.zenchef.com/)
+- [Pricing](https://www.zenchef.com/plans)
+- [Support](https://www.zenchef.com/contact)
+- [Changelog](https://www.zenchef.com/release-notes)
+- [Blog](https://blog.zenchef.com/)
+- [Terms of service](https://www.zenchef.com/legal-notice)
+- [Privacy policy](https://www.zenchef.com/privacy-policy)
+- [GitHub](https://github.com/zenchef)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zenchef/](https://apis.io/providers/zenchef/).
